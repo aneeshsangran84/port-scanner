@@ -1,2 +1,2 @@
 # port-scanner
-High-performance port scanner with vulnerability detection for Parrot OS
+High-performance port scanner with vulnerability detection for Parrot OS & Kali Linux
